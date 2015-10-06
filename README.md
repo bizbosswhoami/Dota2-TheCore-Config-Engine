@@ -10,6 +10,7 @@ Using this, you have full control over what volvo lets you configure- you can tw
  
 How to set it up?
 -------------------------------------------
+ [REQUEST] TLDR:  Would love ONE autoexec.cfg file that has a master list of every command (that you consider useful) similar to how Valve released the dev version for source 1 (or the wiki) however, I have no clue where the information is for source 2 (if it's even public?)  I spent hours searching.  I feel I can only get it by reading the api.
  
 1. Remove **all** in-game keybinds (by left clicking a bind, then right clicking it if you are in Dota 2 Legacy Source 1 or by pressing a far away key like KP_MINUS if you are in Dota 2 Reborn Source 2). 
 
